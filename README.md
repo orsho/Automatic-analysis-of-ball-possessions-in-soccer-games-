@@ -15,7 +15,7 @@ illumination, moving camera, occlusions, small soccer ball, interfering field ma
 the ball, ball moving at different directions and speed, ball shape distortion at frames due to high
 speed, ball changing size with respect to distance from the camera and more.
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/stats%20measured.JPG" width="500" height="300">
+<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/stats%20measured.JPG" width="500" height="200">
 
 ## Highlighted Features
 
