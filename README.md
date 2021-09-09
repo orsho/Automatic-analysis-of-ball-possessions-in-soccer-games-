@@ -30,7 +30,7 @@ Our algorithm divide into 3 main parts:
 
 ## Technical diagram of our project
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/algorithm%20diagram.JPG" width="400" height="800">
+<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/algorithm%20diagram.JPG" width="600" height="700">
 
 
 
