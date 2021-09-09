@@ -17,10 +17,15 @@ speed, ball changing size with respect to distance from the camera and more.
 
 <img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/stats%20measured.JPG" width="500" height="200">
 
-## Main process
+## Highlighted features
 
 * This project uses OpenCV and Python main libraries
 * We needed to classify which team possesses the ball in each frame, based on computer vision techniques
+* All code is arranged in one [Jupyter notebook](https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/The%20notebook.ipynb)
+* The notebook will work on any python IDE environment but it is best to open it in Jupyter notebook
+* The notebook is divided into 2 chapters based on our tracking algorithm for ball detection Other than that each chapter contains almost the same code
+
+## Algorithm
 
 Our algorithm divide into 3 main parts:
 
@@ -28,11 +33,16 @@ Our algorithm divide into 3 main parts:
 * Players detection and classification
 * Calculate ball possession in each frame and aggregate it
 
-## Technical diagram of our project
+**Technical diagram of our project**
 
 <img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/Tech_%20diagram.JPG" width="600" height="700">
 
 ## Final results
 
+For measuring the ground truth we observed on each frame in each video and divide our observations into the next confusion matrix:
+
+<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/results.JPG" width="600" height="500">
+
+[Link to all video results](https://drive.google.com/drive/folders/1J6P6w-ALf77sT4xX5981NvOzzJoJS-Ib?usp=sharing) 
 
 
