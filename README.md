@@ -23,7 +23,7 @@ speed, ball changing size with respect to distance from the camera and more.
 * We needed to classify which team possesses the ball in each frame, based on computer vision techniques
 * All code is arranged in one [Jupyter notebook](https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/The%20notebook.ipynb)
 * The notebook will work on any python IDE environment but it is best to open it in Jupyter notebook
-* The notebook is divided into 2 chapters based on our tracking algorithm for ball detection Other than that each chapter contains almost the same code
+* You should download the data folder in order to run the notebook or add videos from your own
 
 ## Algorithm
 
