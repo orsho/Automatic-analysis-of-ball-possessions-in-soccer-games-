@@ -35,13 +35,13 @@ Our algorithm divide into 3 main parts:
 
 **Technical diagram of our project**
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/Tech_%20diagram.JPG" width="600" height="700">
+<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/diagram.JPG" width="600" height="700">
 
 ## Final results
 
 For measuring the ground truth we observed on each frame in each video and divide our observations into the next confusion matrix:
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/results_.JPG" width="750" height="500">
+<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/confusion%20matrix.JPG" width="750" height="500">
 
 [Link to all video results](https://drive.google.com/drive/folders/1J6P6w-ALf77sT4xX5981NvOzzJoJS-Ib?usp=sharing) 
 
