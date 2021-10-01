@@ -1,6 +1,6 @@
 # Automatic analysis of ball possessions in soccer games using computer vision methods
 
-Paper [Automatic analysis of ball possessions in soccer games](https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Automatic%20analysis%20of%20ball%20possessions%20in%20soccer%20games.pdf) 
+Paper [Automatic analysis of ball possessions in soccer games](https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Automatic%20Analysis%20of%20Ball%20Possessions%20in%20Soccer.pdf) 
 
 Presentation [Presentation of the paper](https://drive.google.com/drive/folders/1aWsOPrmJxpLjyWoJXJGMWh5KnRHCGKR3?usp=sharing) (You may need to download the presentation in order to open it)
 
