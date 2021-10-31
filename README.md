@@ -20,7 +20,7 @@ speed, ball changing size with respect to distance from the camera and more.
 ## Highlighted features
 
 * This project uses OpenCV and Python main libraries
-* We needed to classify which team possesses the ball in each frame, based on computer vision techniques
+* We needed to classify which team possesses the ball in each frame, based on computer vision techniques without using advanced neural networks
 * All code is arranged in one [Jupyter notebook](https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/The%20notebook.ipynb)
 * The notebook will work on any python IDE environment but it is best to open it in Jupyter notebook
 * You should download the data folder in order to run the notebook or add videos from your own
