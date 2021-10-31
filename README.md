@@ -27,7 +27,7 @@ speed, ball changing size with respect to distance from the camera and more.
 
 ## Algorithm
 
-Our algorithm divide into 3 main parts:
+Our algorithm divides into 3 main parts:
 
 * Detect the ball and tracking it
 * Players detection and classification
