@@ -36,7 +36,7 @@ Our algorithm divides into 3 main parts:
 
 For evaluating, we observed on each frame in each video and divide our observations into the next confusion matrix:
 
-<img src="https://https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/eval.GIF" width="750" height="500">
+<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/e294cac3826c95f39852f3896ac871467550e438/Images/eval.JPG" width="750" height="500">
 
 [Link to all video results](https://drive.google.com/drive/folders/1J6P6w-ALf77sT4xX5981NvOzzJoJS-Ib?usp=sharing) 
 
