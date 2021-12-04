@@ -16,19 +16,17 @@ Our best results achieved by a combination of several heuristics which are mainl
 
 * This project uses OpenCV and Python main libraries
 * We needed to classify which team possesses the ball in each frame, based on computer vision techniques without using advanced neural networks
-* All code is arranged in one [Jupyter notebook](https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/The%20notebook.ipynb)
+* All the code is arranged in one [Jupyter notebook](https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/The%20notebook.ipynb)
 * The notebook will work on any python IDE environment but it is best to open it in Jupyter notebook
-* You should download the data folder in order to run the notebook or add videos from your own
+* You should download the data folder in order to run the notebook without errors or add videos from your own
 
 ## Algorithm
 
 Our algorithm divides into 3 main parts:
 
-* Detect the ball and tracking it
+* Ball detection and tracking
 * Players detection and classification
-* Calculate ball possession in each frame and aggregate it
-
-**Technical diagram of our project**
+* Calculate ball possession in each frame 
 
 <img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/29cda6a6a1b917b4a41a38622760e06ca9a19baf/Images/Algo%20arch.JPG" width="900" height="400">
 
