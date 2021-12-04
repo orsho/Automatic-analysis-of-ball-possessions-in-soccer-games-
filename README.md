@@ -10,7 +10,7 @@ There are numerous challenges in this research e.g. illuminations, occlusions, s
 
 Our best results achieved by a combination of several heuristics which are mainly based on Region-based and Mean-Shift. Our algorithm produced decent results even compared to DL models that were trying to solve this problem. The project was ranked 1st out of 100 projects submitted in the course.  
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/stats%20measured.JPG" width="500" height="200">
+<img src="https://https://https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/measure.GIF" width="300" height="300">
 
 ## Highlighted features
 
@@ -30,13 +30,13 @@ Our algorithm divides into 3 main parts:
 
 **Technical diagram of our project**
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/diagram_algo.JPG" width="600" height="700">
+<img src="https://https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/Algo%20arch.GIF" width="600" height="400">
 
 ## Final results
 
 For evaluating, we observed on each frame in each video and divide our observations into the next confusion matrix:
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/confusion%20matrix.JPG" width="750" height="500">
+<img src="https://https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/main/Images/eval.GIF" width="750" height="500">
 
 [Link to all video results](https://drive.google.com/drive/folders/1J6P6w-ALf77sT4xX5981NvOzzJoJS-Ib?usp=sharing) 
 
