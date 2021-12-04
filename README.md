@@ -34,7 +34,8 @@ Our algorithm divides into 3 main parts:
 
 ## Final results
 
-For evaluating, we observed on each frame in each video and divide our observations into the next confusion matrix:
+Evaluate our model by observing each frame in each video.
+Example of two confusion matrices:
 
 <img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/e294cac3826c95f39852f3896ac871467550e438/Images/eval.JPG" width="900" height="300">
 
