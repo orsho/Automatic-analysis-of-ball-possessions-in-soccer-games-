@@ -10,7 +10,7 @@ There are numerous challenges in this research e.g. illuminations, occlusions, s
 
 Our best results achieved by a combination of several heuristics which are mainly based on Region-based and Mean-Shift. Our algorithm produced decent results even compared to DL models that were trying to solve this problem. The project was ranked 1st out of 100 projects submitted in the course.  
 
-<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/5d2888b62658a0da7202d94c3da57e279efabd91/Images/measure.JPG" width="300" height="300">
+<img src="https://github.com/orsho/Automatic-analysis-of-ball-possessions-in-soccer-games-/blob/5d2888b62658a0da7202d94c3da57e279efabd91/Images/measure.JPG" width="450" height="300">
 
 ## Highlighted features
 
